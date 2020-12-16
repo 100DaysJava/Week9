@@ -1,3 +1,4 @@
+//Code
 import java.util.*;
 import java.io.*;
 class Hackerrank7{
