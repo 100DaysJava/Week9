@@ -4,7 +4,7 @@ import java.text.*;
 import java.math.*;
 import java.util.regex.*;
 
-public class Hackerrank10{
+public class Hackerrank10 {
 
 //Write your code here
 
